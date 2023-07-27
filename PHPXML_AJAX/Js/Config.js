@@ -1,0 +1,8 @@
+var Config = {
+  apiUrl: "", 
+  maxRating: "" 
+  
+  //
+};
+
+
